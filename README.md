@@ -17,6 +17,7 @@ I'm a Software Developer Intern at Pason and the VP of Software Development at S
 Cool streaming technology, bits and pieces about Kafka, and exploring how distributed systems work at scale.
 
 
+
 Check out my repos or take a look at my [website](https://podgaietska.me/)! 😄
 
 <!--
