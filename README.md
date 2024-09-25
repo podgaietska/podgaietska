@@ -17,7 +17,7 @@ I'm a Software Developer Intern at Pason and the VP of Software Development at S
 Cool streaming technology, bits and pieces about Kafka, and exploring how distributed systems work at scale.
 
 
-Hope you enjoy my repos! 😄
+Check out my repos or take a look at my [website](https://podgaietska.me/)! 😄
 
 <!--
 **podgaietska/podgaietska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
