@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Mariia (yes, I have a double 'i' in my name)! I like to code and build cool stuff. Always exploring new technologies and improving my craft.
+I'm Mariia (yes, I have a double 'i' in my name)
+
+I like to code and build cool stuff! Always exploring new technologies and improving my craft.
 
 
 #### 🎓 Education  
