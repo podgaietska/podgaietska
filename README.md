@@ -1,27 +1,27 @@
 ## Hi there 👋
 
-I'm Mariia (yes, I have a double 'i' in my name). I like to code and build cool stuff!
+I'm Mariia (yes, I have a double 'i' in my name).
 
+## 🎓 Education
 
-## 👩‍💻 About me
-- 🎓 **Education:** Currently a 4th-year Software Engineering student at the University of Calgary, doing a 16-month co-op.
-- 💻 **What I do outside of school:** I'm a Software Developer Intern at Pason and the VP of Software Development at Student Energy UofC, where I get to work on some cool projects!
-- 🚀 **What I'm learning now:** Cool streaming technology, bits and pieces about Kafka, and exploring how distributed systems work at scale.
+- Bachelor of Software Engineering, Schulich School of Engineering, [University of Calgary](https://schulich.ucalgary.ca/)
 
-## 🔍 Learn more... 
-Check out my repos or take a look at my [website](https://podgaietska.me/)! 😄
+## 💼 Experience
 
-<!--
-**podgaietska/podgaietska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Engineer, [Google](https://www.google.com/)
+- Software Engineering Intern, [Google](https://www.google.com/)
+- Software Developer Intern, [Pason](https://www.pason.com/)
 
-Here are some ideas to get you started:
+## 📫 Feel Free to Reach Out
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/podgaietska/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:podgaietska.m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/podgaietska">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+  </a>
+</div>
